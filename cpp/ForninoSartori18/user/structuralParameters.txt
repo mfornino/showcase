@@ -1,0 +1,23 @@
+STRUCTURAL PARAMETERS:
+
+NAME                                    VALUE
+Number of productivity shocks:          4
+Maximum firm size:                      60
+Low Wage:                               1
+High Wage:                              1.25
+Decreasing returns parameter:           0.6666666666666666
+Real interest rate:                     0.01
+Instantaneous fixed cost:               1.5
+Exit rate:                              100000
+Layoff rate:                            13
+Instantaneous severance pay:            1
+Exogenous separation rate:              0.0625
+Aggregate productivity shifter:         1
+AR(1) rho:                              0.8
+AR(1) sigma_epsilon:                    0.1
+AR(1) mu:                               0.55
+Financial Disaster Rate:                0.1
+Distribution of entrants, z = 0         0
+Distribution of entrants, z = 1         0.25
+Distribution of entrants, z = 2         0.5
+Distribution of entrants, z = 3         0.25

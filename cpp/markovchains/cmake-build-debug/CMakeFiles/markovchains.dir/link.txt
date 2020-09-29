@@ -1,0 +1,1 @@
+c++   -O3 -g   CMakeFiles/markovchains.dir/main.cpp.o  -o markovchains 

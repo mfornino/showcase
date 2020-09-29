@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michele/git/f_numerical/general/cpp/markovchains/MarkovChain.h
+random
+-
+iostream
+-
+MarkovChainSimulations.h
+/home/michele/git/f_numerical/general/cpp/markovchains/MarkovChainSimulations.h
+eigen3/Eigen/Dense
+-
+eigen3/Eigen/Sparse
+-
+eigen3/Eigen/SparseLU
+-
+
+/home/michele/git/f_numerical/general/cpp/markovchains/MarkovChainSimulations.h
+iostream
+-
+iomanip
+-
+fstream
+-
+ctime
+-
+eigen3/Eigen/Dense
+-
+eigen3/Eigen/Sparse
+-
+eigen3/Eigen/SparseLU
+-
+
+/home/michele/git/f_numerical/general/cpp/markovchains/main.cpp
+MarkovChain.h
+/home/michele/git/f_numerical/general/cpp/markovchains/MarkovChain.h
+MarkovChainSimulations.h
+/home/michele/git/f_numerical/general/cpp/markovchains/MarkovChainSimulations.h
+iostream
+-
+

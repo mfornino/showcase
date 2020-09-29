@@ -1,0 +1,9 @@
+TECHNICAL PARAMETERS:
+
+NAME                                    VALUE
+HJB Equation Tolerance Criterion:       1e-10
+HJB Equation Maximum Iterations:        100
+HJB Equation Implicit Step Size:        100000000
+HJB Equation BiCGSTAB Tolerance:        1e-06
+KFE Equations Tolerance Criterion:      1e-10
+KFE Equations Implicit Step Size:       100000000
